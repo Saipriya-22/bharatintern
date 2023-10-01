@@ -1,0 +1,25 @@
+body{
+    background-color:rgba(128, 128, 128, 0.932);
+}
+h1{
+    color:red;
+    text-align:center;
+    text-shadow:4px 4px 6px;
+    font-family:verdana;
+    font-size:xx-large;
+}
+h3{
+    color:beige;
+}
+ol{
+    color:greenyellow;
+    font-family:sans-serif;
+    text-shadow: 2px 2px 3px;
+}
+h2{
+    color:rgba(230, 30, 30, 0.87);
+    text-shadow:4px 4px 4px;
+}
+h4{
+    color:yellow;
+}
